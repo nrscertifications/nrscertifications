@@ -21,9 +21,6 @@ Practical notes for common help desk scenarios such as internet connectivity iss
 ### OverTheWire Bandit Linux Practice
 Linux command-line practice using SSH, file navigation, permissions, file searching, encoding/decoding, archive handling, and command-line problem solving.
 
-### Linux Labs
-Linux Essentials practice notes covering beginner command-line usage, file navigation, shell basics, and Linux troubleshooting habits.
-
 ## Career Goal
 
 I am currently applying for Junior IT Support Technician, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and Technical Support Analyst roles.
