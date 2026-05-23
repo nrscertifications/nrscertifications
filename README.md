@@ -15,7 +15,7 @@ I have an Information Technology Professional Diploma with Distinction, AWS Cert
 
 ## Practical Work
 
-### OverTheWire Bandit Linux Practice
+### OverTheWire - Bandit
 
 Documented Linux command-line practice using SSH, file navigation, permissions, hidden files, file searching, encoding and decoding, archive extraction, and command-line problem solving.
 
@@ -36,6 +36,6 @@ Repository: [OverTheWire-Bandit](https://github.com/nrscertifications/OverTheWir
 
 ## Career Goal
 
-I am currently applying for Junior IT Support Technician, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and Technical Support Analyst roles.
+I am currently applying for IT Support Technician, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and Technical Support Analyst roles.
 
 My long-term goal is to grow into cloud, security, or infrastructure-focused work after building strong real-world IT support experience.
