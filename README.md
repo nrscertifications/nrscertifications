@@ -36,6 +36,6 @@ Repository: [OverTheWire-Bandit](https://github.com/nrscertifications/OverTheWir
 
 ## Career Goal
 
-I am currently applying for IT Support Technician, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and Technical Support Analyst roles.
+I am currently applying for IT Support Technician, Help Desk Analyst, Service Desk Analyst and Technical Support Analyst roles.
 
-My long-term goal is to grow into cloud, security, or infrastructure-focused work after building strong real-world IT support experience.
+My long-term goal is to solidify a position in cloud, security, or infrastructure-focused roles after building strong real-world IT support experience.
