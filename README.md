@@ -1,6 +1,6 @@
 # Narinder Sharma
 
-Entry-level IT professional focused on Junior IT Support, Help Desk, Service Desk, IT Support Technician, and Technical Support Analyst roles.
+Information Technology Professional focused on  IT Support, Help Desk, Service Desk, IT Support Technician, and Technical Support Analyst roles.
 
 I have an Information Technology Professional Diploma with Distinction, AWS Certified Cloud Practitioner certification, LPI Linux Essentials certification, NDG Linux Essentials training, and hands-on practice with Linux command-line work, Windows support, networking fundamentals, cloud fundamentals, troubleshooting, and technical documentation.
 
