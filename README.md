@@ -16,7 +16,7 @@ Information Technology professional focused on IT infrastructure support, servic
 
 *Jira Service Management ITSM configuration lab focused on structured intake, agent-side ticket triage, JQL-based queue segmentation, SLA tracking, and escalation workflow documentation for Tier 1.5 / junior Tier 2 support scenarios.*
 
-### [it-support-troubleshooting-notes](https://github.com/nrscertifications/it-support-troubleshooting-notes)
+### [it-support-knowledge-base](https://github.com/nrscertifications/it-support-knowledge-base)
 
 *An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
 
