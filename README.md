@@ -14,15 +14,15 @@ Information Technology professional focused on IT infrastructure support, servic
 
 ### [jira-service-management-itsm-lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
 
-*Jira Service Management ITSM configuration lab focused on structured intake, agent-side ticket triage, JQL-based queue segmentation, SLA tracking, and escalation workflow documentation for Tier 1.5 / junior Tier 2 support scenarios.*
+*Jira Service Management ITSM configuration lab focused on structured intake, agent-side ticket triage, JQL-based queue segmentation, SLA tracking, and escalation workflow documentation for service desk operations.*
 
 ### [it-support-knowledge-base](https://github.com/nrscertifications/it-support-knowledge-base)
 
-*An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
+**An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
 
-### [OverTheWire-Bandit](https://github.com/nrscertifications/OverTheWire-Bandit)
+### [linux-fundamentals-and-security-labs](https://github.com/nrscertifications/linux-fundamentals-and-security-labs)
 
-*Documented Linux command-line exercises focused on Ubuntu/Linux fundamentals, SSH, file permissions, shell navigation, secure file handling, and practical terminal usage.*
+*Linux lab repository documenting command-line exercises focused on SSH, file permissions, shell navigation, secure file handling, text processing, and foundational security concepts via OverTheWire Bandit Framework.*
 
 ## Technical Certifications
 
