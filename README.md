@@ -1,28 +1,41 @@
-# Narinder Sharma
+# Narinder Sharma | IT Support & Service Desk Analyst
 
-Entry-level IT professional focused on Junior IT Support, Help Desk, Service Desk, IT Support Technician, and Technical Support Analyst roles.
+Information Technology professional focused on IT infrastructure support, service desk operations, endpoint troubleshooting, Linux fundamentals, and technical documentation. I specialize in building structured support environments and knowledge base documentation to drive efficient ticket triage, SLA governance, remote troubleshooting, and clear technical handoffs.
 
-I have an Information Technology Professional Diploma with Distinction, AWS Certified Cloud Practitioner certification, LPI Linux Essentials, NDG Linux Essentials, and hands-on practice with Linux command-line work, Windows support, networking basics, cloud fundamentals, troubleshooting, and technical documentation.
+## Professional Focus
 
-## Current Focus
+* **Service Desk Operations:** Experience with ITSM lifecycle management using Jira Service Management, including SLA tracking, custom JQL queue organization, ticket triage, and standardized escalation routing.
+* **End-User & Hardware Support:** Proficient in supporting Windows 10/11 workstations, mobile device support and management, printer/peripheral troubleshooting, account access resolution, and on-site hardware triage.
+* **Systems Administration Fundamentals:** Competent in Windows Server basics, Active Directory fundamentals, Entra ID concepts, BIOS/UEFI configuration, antivirus deployment, and endpoint patching.
+* **Linux, Networking & Cloud Support:** Hands-on experience with Ubuntu/Linux command-line usage, Bash fundamentals, SSH, file permissions, system navigation, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet connectivity, VPN troubleshooting, and AWS Cloud Practitioner-level cloud support concepts.
+* **Remote Support & Technical Documentation:** Comfortable documenting remote troubleshooting steps, writing standardized incident reports, creating troubleshooting runbooks, and producing root-cause analysis (RCA) documentation to improve support consistency and reduce Mean Time to Resolution (MTTR).
 
-- IT support and help desk troubleshooting
-- Linux command-line fundamentals
-- Windows support and system maintenance
-- Networking basics
-- AWS Cloud Practitioner-level cloud concepts
-- Clear technical documentation
+## Featured Repositories
 
-## Practical Work
+### [jira-service-management-itsm-lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
 
-### IT Support Troubleshooting Notes
-Practical notes for common help desk scenarios such as internet connectivity issues, Windows troubleshooting, antivirus updates, system patching, and user support.
+*Jira Service Management ITSM configuration lab focused on structured intake, agent-side ticket triage, JQL-based queue segmentation, SLA tracking, and escalation workflow documentation for Tier 1.5 / junior Tier 2 support scenarios.*
 
-### OverTheWire Bandit Linux Practice
-Linux command-line practice using SSH, file navigation, permissions, file searching, encoding/decoding, archive handling, and command-line problem solving.
+### [it-support-troubleshooting-notes](https://github.com/nrscertifications/it-support-troubleshooting-notes)
 
-## Career Goal
+*An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
 
-I am currently applying for Junior IT Support Technician, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and Technical Support Analyst roles.
+### [OverTheWire-Bandit](https://github.com/nrscertifications/OverTheWire-Bandit)
 
-My long-term goal is to grow into cloud, security, or infrastructure work after building strong real-world IT support experience.
+*Documented Linux command-line exercises focused on Ubuntu/Linux fundamentals, SSH, file permissions, shell navigation, secure file handling, and practical terminal usage.*
+
+## Technical Certifications
+
+* **AWS Certified Cloud Practitioner**
+* **LPI Linux Essentials** | **NDG Linux Essentials**
+
+---
+
+## Career Objective
+
+Currently pursuing Technical Support Analyst, Help Desk Analyst, Service Desk Analyst, IT Support Technician, and junior Tier 1.5 / Tier 2 support roles.
+
+My focus is on building deep practical capability in ITSM operations, Microsoft 365 / Entra ID administration, Linux/Ubuntu support, remote troubleshooting, and infrastructure support. I am eager to apply my structured troubleshooting and technical documentation skills to efficient, high-performing IT support teams. Longer term, I plan to grow toward cloud infrastructure and security operations after gaining more production-level support experience.
+
+**Contact:** [nrscertifications@gmail.com](mailto:nrscertifications@gmail.com) | [LinkedIn](https://linkedin.com/in/nrscertifications)
+
