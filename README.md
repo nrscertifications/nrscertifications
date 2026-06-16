@@ -18,7 +18,7 @@ Information Technology professional focused on IT infrastructure support, servic
 
 ### [it-support-knowledge-base](https://github.com/nrscertifications/it-support-knowledge-base)
 
-**An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
+*An active Knowledge Base (KB) containing standardized incident reports, troubleshooting runbooks, and root-cause analysis for common end-user, mobile device, hardware, and account synchronization issues.*
 
 ### [linux-fundamentals-and-security-labs](https://github.com/nrscertifications/linux-fundamentals-and-security-labs)
 
