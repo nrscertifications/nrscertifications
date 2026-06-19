@@ -37,5 +37,3 @@ Currently pursuing Technical Support Analyst, Help Desk Analyst, Service Desk An
 
 My focus is on building deep practical capability in ITSM operations, Microsoft 365 / Entra ID administration, Linux/Ubuntu support, remote troubleshooting, and infrastructure support. I am eager to apply my structured troubleshooting and technical documentation skills to efficient, high-performing IT support teams. Longer term, I plan to grow toward cloud infrastructure and security operations after gaining more production-level support experience.
 
-**Contact:** [nrscertifications@gmail.com](mailto:nrscertifications@gmail.com) | [LinkedIn](https://linkedin.com/in/nrscertifications)
-
