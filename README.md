@@ -44,7 +44,7 @@ Knowledge base containing standardized troubleshooting runbooks and incident-sty
 
 ### [Linux Fundamentals & Security Labs](https://github.com/nrscertifications/linux-fundamentals-and-security-labs)
 
-Linux command-line documentation focused on shell navigation, SSH, file permissions, file searching, text processing, secure file handling, and foundational security concepts using Ubuntu/WSL practice.
+Linux command-line documentation focused on shell navigation, SSH, file permissions, file searching, text processing, secure file handling, and foundational security concepts using Ubuntu/WSL/Hyper-V.
 
 **Relevant skills:** Linux, Bash, SSH, file permissions, command-line troubleshooting, text processing, secure file handling, documentation.
 
@@ -72,5 +72,5 @@ I am currently pursuing roles including:
 * Junior Systems Administrator
 * Entry-level NOC / infrastructure support roles where troubleshooting and escalation support are central
 
-My short-term focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. Longer term, I plan to grow toward cloud infrastructure, network operations, and security operations after gaining more production support experience.
+My focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. Longer term, I plan to grow toward cloud infrastructure, network operations, and security operations after gaining more production support experience.
 
