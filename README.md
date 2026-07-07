@@ -20,8 +20,6 @@ I build hands-on portfolio projects that document how support environments are c
 
 ### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
 
-### Microsoft 365 & Entra ID Administration Portfolio
-
 Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, service health monitoring, Microsoft Graph PowerShell administration, role-based access, administrative units, scoped delegation, and PIM-style eligible access workflows.
 
 **Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, role groups, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, least-privilege administration, and cross-portal validation.
@@ -29,6 +27,12 @@ Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenti
 ---
 
 ### [Jira Service Management ITSM Lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
+
+Jira Service Management repository documenting the complete ticket lifecycle, including customer intake, incident triage, JQL-based queue management, SLA tracking, and escalation workflows.
+
+Engineered to simulate structured incident handling, service request prioritization, and agent-side workflow optimization used in modern Service Desk operations.
+
+**Relevant skills:** Jira Service Management, ITSM workflows, request intake, incident triage, JQL-based queues, SLA tracking, escalation paths, ticket lifecycle management, service desk operations, workflow documentation.
 
 ---
 
