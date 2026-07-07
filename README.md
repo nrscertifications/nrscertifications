@@ -1,14 +1,14 @@
 # Narinder Sharma | IT Support & Service Desk Analyst
 
-Information Technology Professional focused on IT Support, Service Desk, Technical Support, endpoint troubleshooting, Microsoft 365 administration, Linux fundamentals, and technical documentation.
+Information Technology Professional focused on IT Support, Service Desk, Technical Support, endpoint troubleshooting, Microsoft 365 / Entra ID administration, Linux fundamentals, and technical documentation.
 
-I build hands-on portfolio projects that document how support environments are configured, reviewed, and maintained. My current work focuses on Microsoft 365 / Entra ID administration, ITSM ticket workflows, structured troubleshooting runbooks, Linux command-line practice, and clear technical handoff documentation.
+I build hands-on portfolio projects that document how support environments are configured, administered, validated, and maintained. My current work focuses on Microsoft 365 / Entra ID administration, role-based access, ITSM ticket workflows, structured troubleshooting runbooks, Linux command-line practice, and clear technical handoff documentation.
 
 ---
 
 ## Professional Focus
 
-* **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, user provisioning, external contacts, guest users, groups, licensing review, service health, and backup readiness.
+* **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, tenant/domain readiness, user provisioning, external contacts, B2B guest users, Microsoft 365 groups, licensing review, service health, Microsoft 365 Backup readiness, Microsoft Graph PowerShell, CSV-based bulk provisioning, role-based access, administrative units, scoped delegation, Purview role groups, and PIM-style eligible access workflows. 
 * **Service Desk & ITSM Operations:** Jira Service Management configuration, request intake, ticket triage, JQL-based queues, SLA tracking, escalation paths, and support workflow documentation.
 * **Endpoint & User Support:** Windows 10/11 troubleshooting, account access issues, printer/peripheral support, mobile device support, endpoint maintenance, and user-facing technical communication.
 * **Linux, Networking & Cloud Fundamentals:** Ubuntu/Linux command line, Bash basics, SSH, permissions, file handling, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet troubleshooting, VPN support concepts, and AWS Cloud Practitioner-level cloud fundamentals.
