@@ -20,17 +20,15 @@ I build hands-on portfolio projects that document how support environments are c
 
 ### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
 
-Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, user provisioning, external collaboration, group management, licensing review, service health, network insights, and Microsoft 365 Backup readiness.
+### Microsoft 365 & Entra ID Administration Portfolio
 
-**Relevant skills:** Microsoft 365 admin center, Entra ID, Azure portal, tenant/domain readiness, user lifecycle administration, guest users, contacts, groups, licensing, service access review, operational monitoring.
+Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, service health monitoring, Microsoft Graph PowerShell administration, role-based access, administrative units, scoped delegation, and PIM-style eligible access workflows.
+
+**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, role groups, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, least-privilege administration, and cross-portal validation.
 
 ---
 
 ### [Jira Service Management ITSM Lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
-
-Jira Service Management configuration project focused on structured request intake, service desk ticket triage, JQL-based queue segmentation, SLA tracking, and escalation workflow documentation.
-
-**Relevant skills:** ITSM, Jira Service Management, ticket queues, SLA tracking, escalation paths, request types, support workflow design, service desk operations.
 
 ---
 
