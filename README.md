@@ -9,6 +9,7 @@ I build hands-on portfolio projects that document how support environments are c
 ## Professional Focus
 
 * **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, tenant/domain readiness, user provisioning, external contacts, B2B guest users, Microsoft 365 groups, licensing review, service health, Microsoft 365 Backup readiness, Microsoft Graph PowerShell, CSV-based bulk provisioning, role-based access, administrative units, scoped delegation, Purview role groups, and PIM-style eligible access workflows. 
+* **Windows Server & Hybrid Identity:** Windows Server AD DS and DNS, Active Directory user and OU preparation, IDFix directory cleanup, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, and Connect Health troubleshooting.
 * **Service Desk & ITSM Operations:** Jira Service Management configuration, request intake, ticket triage, JQL-based queues, SLA tracking, escalation paths, and support workflow documentation.
 * **Endpoint & User Support:** Windows 10/11 troubleshooting, account access issues, printer/peripheral support, mobile device support, endpoint maintenance, and user-facing technical communication.
 * **Linux, Networking & Cloud Fundamentals:** Ubuntu/Linux command line, Bash basics, SSH, permissions, file handling, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet troubleshooting, VPN support concepts, and AWS Cloud Practitioner-level cloud fundamentals.
@@ -20,17 +21,15 @@ I build hands-on portfolio projects that document how support environments are c
 
 ### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
 
-Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, service health monitoring, Microsoft Graph PowerShell administration, role-based access, administrative units, scoped delegation, and PIM-style eligible access workflows.
+Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, service health, Microsoft Graph PowerShell administration, role-based access, hybrid identity synchronization, and Connect Health troubleshooting.
 
-**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, role groups, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, least-privilege administration, and cross-portal validation.
+**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, Windows Server AD DS, DNS, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, OU and distinguished-name scoping, synchronized identity verification, Connect Health, PowerShell health checks, least-privilege administration, and cross-portal validation.
 
 ---
 
 ### [Jira Service Management ITSM Lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
 
-Jira Service Management repository documenting the complete ticket lifecycle, including customer intake, incident triage, JQL-based queue management, SLA tracking, and escalation workflows.
-
-Engineered to simulate structured incident handling, service request prioritization, and agent-side workflow optimization used in modern Service Desk operations.
+Jira Service Management repository documenting the complete ticket lifecycle, including customer intake, incident triage, JQL-based queue management, SLA tracking, escalation paths, and resolution workflow documentation.
 
 **Relevant skills:** Jira Service Management, ITSM workflows, request intake, incident triage, JQL-based queues, SLA tracking, escalation paths, ticket lifecycle management, service desk operations, workflow documentation.
 
