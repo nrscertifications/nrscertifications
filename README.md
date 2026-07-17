@@ -22,9 +22,11 @@ I build hands-on portfolio projects that document how support environments are c
 
 ### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
 
-Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, service health, Microsoft Graph PowerShell administration, role-based access, hybrid identity synchronization, authentication methods, self-service password reset, password protection, and Connect Health troubleshooting.
+Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio organized into phase-based workstreams covering tenant readiness, identity lifecycle, collaboration, licensing, Microsoft Graph PowerShell, delegated access, hybrid identity, authentication, password security, operational visibility, and backup readiness.
 
-**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, Windows Server AD DS, DNS, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, OU and distinguished-name scoping, synchronized identity verification, Connect Health, PowerShell health checks, self-service password reset, authentication-method policies, SMS method targeting, password-writeback settings, password-expiration review, smart lockout, custom banned passwords, Windows Server AD password protection in Audit mode, authentication registration reporting, least-privilege administration, and cross-portal validation.
+* **Microsoft 365 administration:** Tenant and domain readiness, user lifecycle, external collaboration, groups, licensing, network insights, backup workflows, and cross-portal validation.
+* **Identity and access:** Microsoft Entra ID, Microsoft Graph PowerShell, role assignments, administrative units, scoped User Administrator delegation, Purview role groups, and eligible PIM assignments.
+* **Hybrid identity and authentication:** Windows Server AD DS, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, SSPR, authentication methods, password writeback, smart lockout, banned passwords, and registration reporting.
 
 ---
 
