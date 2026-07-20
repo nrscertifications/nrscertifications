@@ -74,4 +74,4 @@ I am currently pursuing roles including:
 - Junior Systems Administrator
 - Entry-level NOC / infrastructure support roles where troubleshooting and escalation support are central
 
-My focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. Longer term, I plan to grow toward cloud infrastructure, network operations, and security operations after gaining more production support experience.
+My focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. I plan to build on this foundation in cloud infrastructure, network operations, and security operations.
