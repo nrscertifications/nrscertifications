@@ -2,19 +2,19 @@
 
 Information Technology Professional focused on IT Support, Service Desk, Technical Support, endpoint troubleshooting, Microsoft 365 / Entra ID administration, Linux fundamentals, and technical documentation.
 
-I build hands-on portfolio projects that document how support environments are configured, administered, validated, and maintained. My current work focuses on Microsoft 365 / Entra ID administration, role-based access, authentication and password security, ITSM ticket workflows, structured troubleshooting runbooks, Linux command-line practice, and clear technical handoff documentation.
+I build hands-on portfolio projects that document how support environments are configured, administered, validated, and maintained. My current work focuses on Microsoft 365 / Entra ID administration, role-based access, hybrid identity, authentication and secure access, ITSM ticket workflows, structured troubleshooting runbooks, Linux command-line practice, and clear technical handoff documentation.
 
 ---
 
 ## Professional Focus
 
-* **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, tenant/domain readiness, user provisioning, external contacts, B2B guest users, Microsoft 365 groups, licensing review, service health, Microsoft 365 Backup readiness, Microsoft Graph PowerShell, CSV-based bulk provisioning, role-based access, administrative units, scoped delegation, Purview role groups, and PIM-style eligible access workflows.
-* **Windows Server & Hybrid Identity:** Windows Server AD DS and DNS, Active Directory user and OU preparation, IDFix directory cleanup, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, and Connect Health troubleshooting.
-* **Authentication & Password Security:** Self-service password reset, authentication-method policies, SMS method targeting, password-writeback settings, password-expiration review, smart lockout, custom banned passwords, Windows Server AD password protection in Audit mode, and authentication registration reporting.
-* **Service Desk & ITSM Operations:** Jira Service Management configuration, request intake, ticket triage, JQL-based queues, SLA tracking, escalation paths, and support workflow documentation.
-* **Endpoint & User Support:** Windows 10/11 troubleshooting, account access issues, printer/peripheral support, mobile device support, endpoint maintenance, and user-facing technical communication.
-* **Linux, Networking & Cloud Fundamentals:** Ubuntu/Linux command line, Bash basics, SSH, permissions, file handling, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet troubleshooting, VPN support concepts, and AWS Cloud Practitioner-level cloud fundamentals.
-* **Technical Documentation:** Incident reports, troubleshooting runbooks, root-cause analysis notes, Markdown documentation, and Git/GitHub portfolio maintenance.
+- **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, tenant/domain readiness, user provisioning, external contacts, B2B guest users, Microsoft 365 groups, licensing review, service health, Microsoft 365 Backup readiness, Microsoft Graph PowerShell, CSV-based bulk provisioning, role-based access, administrative units, scoped delegation, Purview role groups, and PIM-style eligible access workflows.
+- **Windows Server & Hybrid Identity:** Windows Server AD DS and DNS, Active Directory user and OU preparation, IDFix directory cleanup, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, and Connect Health troubleshooting.
+- **Authentication & Secure Access:** Self-service password reset, authentication-method policies, SMS method targeting, password writeback, smart lockout, custom banned passwords, Windows Server AD password protection in Audit mode, Microsoft Entra Conditional Access, Security Defaults transition, user-risk and sign-in-risk conditions, MFA grant controls, emergency-access exclusions, target-resource scoping, client-app and device-platform conditions, risky-user reporting, and sign-in log review.
+- **Service Desk & ITSM Operations:** Jira Service Management configuration, request intake, ticket triage, JQL-based queues, SLA tracking, escalation paths, and support workflow documentation.
+- **Endpoint & User Support:** Windows 10/11 troubleshooting, account access issues, printer/peripheral support, mobile device support, endpoint maintenance, and user-facing technical communication.
+- **Linux, Networking & Cloud Fundamentals:** Ubuntu/Linux command line, Bash basics, SSH, permissions, file handling, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet troubleshooting, VPN support concepts, and AWS Cloud Practitioner-level cloud fundamentals.
+- **Technical Documentation:** Incident reports, troubleshooting runbooks, root-cause analysis notes, Markdown documentation, evidence-to-workflow alignment, and Git/GitHub portfolio maintenance.
 
 ---
 
@@ -22,11 +22,9 @@ I build hands-on portfolio projects that document how support environments are c
 
 ### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
 
-Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio organized into phase-based workstreams covering tenant readiness, identity lifecycle, collaboration, licensing, Microsoft Graph PowerShell, delegated access, hybrid identity, authentication, password security, operational visibility, and backup readiness.
+Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, Microsoft Graph PowerShell administration, role-based access, hybrid identity synchronization, authentication and password security, Conditional Access, identity-risk controls, operational visibility, and backup readiness.
 
-* **Microsoft 365 administration:** Tenant and domain readiness, user lifecycle, external collaboration, groups, licensing, network insights, backup workflows, and cross-portal validation.
-* **Identity and access:** Microsoft Entra ID, Microsoft Graph PowerShell, role assignments, administrative units, scoped User Administrator delegation, Purview role groups, and eligible PIM assignments.
-* **Hybrid identity and authentication:** Windows Server AD DS, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, SSPR, authentication methods, password writeback, smart lockout, banned passwords, and registration reporting.
+**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, Windows Server AD DS, DNS, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, Connect Health, self-service password reset, authentication-method policies, password writeback, smart lockout, custom banned passwords, Windows Server AD password protection, Microsoft Entra Conditional Access, Security Defaults transition, risk-based MFA, emergency-access exclusions, target-resource scoping, client-app and device-platform conditions, risky-user reporting, sign-in log review, least-privilege administration, and cross-portal validation.
 
 ---
 
@@ -56,9 +54,9 @@ Linux command-line documentation focused on shell navigation, SSH, file permissi
 
 ## Certifications
 
-* AWS Certified Cloud Practitioner
-* LPI Linux Essentials
-* NDG Linux Essentials
+- AWS Certified Cloud Practitioner
+- LPI Linux Essentials
+- NDG Linux Essentials
 
 ---
 
@@ -66,14 +64,14 @@ Linux command-line documentation focused on shell navigation, SSH, file permissi
 
 I am currently pursuing roles including:
 
-* IT Support Technician
-* Help Desk Analyst
-* Service Desk Analyst
-* Technical Support Analyst
-* Desktop / End-User Support Technician
-* Junior Systems Support Technician
-* Junior Network Support Technician
-* Junior Systems Administrator
-* Entry-level NOC / infrastructure support roles where troubleshooting and escalation support are central
+- IT Support Technician
+- Help Desk Analyst
+- Service Desk Analyst
+- Technical Support Analyst
+- Desktop / End-User Support Technician
+- Junior Systems Support Technician
+- Junior Network Support Technician
+- Junior Systems Administrator
+- Entry-level NOC / infrastructure support roles where troubleshooting and escalation support are central
 
 My focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. Longer term, I plan to grow toward cloud infrastructure, network operations, and security operations after gaining more production support experience.
