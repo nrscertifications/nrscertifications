@@ -1,6 +1,6 @@
 # Narinder Sharma | IT Support & Administration Portfolio
 
-This GitHub profile collects my technical portfolio work in Microsoft 365, Microsoft Entra ID, Microsoft Intune, service desk operations, Windows troubleshooting and Linux. I use the repositories to document what I configured, the issues I investigated, and how I checked the results.
+This GitHub profile collects my technical portfolio work in Microsoft 365, Microsoft Entra ID, Microsoft Intune, service desk operations, Windows troubleshooting and Linux. I use the repositories to document what I configured, the issues I investigated and how I checked the results.
 
 The Microsoft administration work was carried out in non-production lab environments. The Jira Service Management lab uses simulated support requests, while the knowledge base and Linux labs contain troubleshooting runbooks and command-line notes.
 
