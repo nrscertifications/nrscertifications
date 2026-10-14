@@ -1,77 +1,25 @@
-# Narinder Sharma | IT Support & Service Desk Analyst
+# Narinder Sharma | IT Support & Administration Portfolio
 
-Information Technology Professional focused on IT Support, Service Desk, Technical Support, endpoint troubleshooting, Microsoft 365 / Entra ID administration, Linux fundamentals, and technical documentation.
+This GitHub profile collects my technical portfolio work in Microsoft 365, Microsoft Entra ID, Microsoft Intune, service desk operations, Windows troubleshooting and Linux. I use the repositories to document what I configured, the issues I investigated, and how I checked the results.
 
-I build hands-on portfolio projects that document how support environments are configured, administered, validated, and maintained. My current work focuses on Microsoft 365 / Entra ID administration, role-based access, hybrid identity, authentication and secure access, ITSM ticket workflows, structured troubleshooting runbooks, Linux command-line practice, and clear technical handoff documentation.
-
----
-
-## Professional Focus
-
-- **Microsoft 365 & Identity Administration:** Microsoft 365 admin center, Microsoft Entra ID, tenant/domain readiness, user provisioning, external contacts, B2B guest users, Microsoft 365 groups, licensing review, service health, Microsoft 365 Backup readiness, Microsoft Graph PowerShell, CSV-based bulk provisioning, role-based access, administrative units, scoped delegation, Purview role groups, and PIM-style eligible access workflows.
-- **Windows Server & Hybrid Identity:** Windows Server AD DS and DNS, Active Directory user and OU preparation, IDFix directory cleanup, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, and Connect Health troubleshooting.
-- **Authentication & Secure Access:** Self-service password reset, authentication-method policies, SMS method targeting, password writeback, smart lockout, custom banned passwords, Windows Server AD password protection in Audit mode, Microsoft Entra Conditional Access, Security Defaults transition, user-risk and sign-in-risk conditions, MFA grant controls, emergency-access exclusions, target-resource scoping, client-app and device-platform conditions, risky-user reporting, and sign-in log review.
-- **Service Desk & ITSM Operations:** Jira Service Management configuration, request intake, ticket triage, JQL-based queues, SLA tracking, escalation paths, and support workflow documentation.
-- **Endpoint & User Support:** Windows 10/11 troubleshooting, account access issues, printer/peripheral support, mobile device support, endpoint maintenance, and user-facing technical communication.
-- **Linux, Networking & Cloud Fundamentals:** Ubuntu/Linux command line, Bash basics, SSH, permissions, file handling, TCP/IP, DNS/DHCP, Wi-Fi/Ethernet troubleshooting, VPN support concepts, and AWS Cloud Practitioner-level cloud fundamentals.
-- **Technical Documentation:** Incident reports, troubleshooting runbooks, root-cause analysis notes, Markdown documentation, evidence-to-workflow alignment, and Git/GitHub portfolio maintenance.
+The Microsoft administration work was carried out in non-production lab environments. The Jira Service Management lab uses simulated support requests, while the knowledge base and Linux labs contain troubleshooting runbooks and command-line notes.
 
 ---
 
-## Featured Portfolio Projects
+## Featured Repositories
 
-### [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio)
-
-Hands-on Microsoft 365 and Microsoft Entra ID administration portfolio documenting tenant readiness, identity administration, external collaboration, group management, licensing review, Microsoft Graph PowerShell administration, role-based access, hybrid identity synchronization, authentication and password security, Conditional Access, identity-risk controls, operational visibility, and backup readiness.
-
-**Relevant skills:** Microsoft 365 admin center, Microsoft Entra ID, Azure portal, Windows Server AD DS, DNS, tenant/domain readiness, user lifecycle administration, external contacts, B2B guest users, Microsoft 365 groups, licensing review, Microsoft Graph PowerShell, CSV-based bulk provisioning, role assignment, administrative units, scoped User Administrator delegation, Purview role groups, PIM concepts, IDFix, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Password Hash Synchronization, synchronization scoping, synchronized identity verification, Connect Health, self-service password reset, authentication-method policies, password writeback, smart lockout, custom banned passwords, Windows Server AD password protection, Microsoft Entra Conditional Access, Security Defaults transition, risk-based MFA, emergency-access exclusions, target-resource scoping, client-app and device-platform conditions, risky-user reporting, sign-in log review, least-privilege administration, and cross-portal validation.
-
----
-
-### [Jira Service Management ITSM Lab](https://github.com/nrscertifications/jira-service-management-itsm-lab)
-
-Jira Service Management repository documenting the complete ticket lifecycle, including customer intake, incident triage, JQL-based queue management, SLA tracking, escalation paths, and resolution workflow documentation.
-
-**Relevant skills:** Jira Service Management, ITSM workflows, request intake, incident triage, JQL-based queues, SLA tracking, escalation paths, ticket lifecycle management, service desk operations, workflow documentation.
+| Repository | Work completed | Documentation |
+|---|---|---|
+| [Microsoft 365 & Entra ID Administration Portfolio](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio) | Configured tenant and domain settings, user and group administration, licensing, Microsoft Graph PowerShell workflows, role-based access, hybrid identity synchronization, Conditional Access, and Microsoft Defender security controls. | [Portfolio workstreams](https://github.com/nrscertifications/microsoft-365-entra-admin-portfolio#portfolio-workstreams) |
+| [Microsoft Intune Administration Portfolio](https://github.com/nrscertifications/microsoft-intune-administration-portfolio) | Verified Windows device registration status; created a dynamic device group; worked through enrollment readiness, restrictions, and Managed Google Play setup; resolved a missing Group Policy template setting; built a Windows provisioning package; and configured a policy-set container. | [Portfolio workstreams](https://github.com/nrscertifications/microsoft-intune-administration-portfolio#portfolio-workstreams) |
+| [Jira Service Management ITSM Lab](https://github.com/nrscertifications/jira-service-management-itsm-lab) | Configured a service desk portal, request forms, seven simulated tickets, JQL-based queues, business-hours SLA targets, and escalation documentation. | [Workflow and evidence](https://github.com/nrscertifications/jira-service-management-itsm-lab#workflow-summary) |
+| [IT Support & Help Desk Knowledge Base](https://github.com/nrscertifications/it-support-knowledge-base) | Wrote troubleshooting runbooks covering Windows issues, network connectivity, endpoint protection, mobile device support, and Hyper-V compatibility. | [Runbook index](https://github.com/nrscertifications/it-support-knowledge-base#knowledge-base-index) |
+| [Linux Fundamentals & Security Labs](https://github.com/nrscertifications/linux-fundamentals-and-security-labs) | Documented Ubuntu command-line practice in WSL and Hyper-V, including Bash, SSH, file permissions, searching, text processing, and secure file handling. | [Linux lab notes](https://github.com/nrscertifications/linux-fundamentals-and-security-labs#repository-contents) |
 
 ---
 
-### [IT Support Knowledge Base](https://github.com/nrscertifications/it-support-knowledge-base)
+## Documentation & Evidence
 
-Knowledge base containing standardized troubleshooting runbooks and incident-style documentation for Windows, networking, mobile device support, endpoint protection, hardware/peripheral support, and Hyper-V compatibility scenarios.
+The Microsoft 365 and Intune repositories use technical workstreams with numbered phases and screenshots beside the relevant configuration or troubleshooting steps. The Jira lab records request workflows, ticket examples, queues, and SLAs. The knowledge base contains structured troubleshooting runbooks, while the Linux repository organizes command-line work into practical notes.
 
-**Relevant skills:** Windows troubleshooting, non-destructive triage, root-cause analysis, endpoint support, connectivity troubleshooting, user support documentation, technical handoffs.
-
----
-
-### [Linux Fundamentals & Security Labs](https://github.com/nrscertifications/linux-fundamentals-and-security-labs)
-
-Linux command-line documentation focused on shell navigation, SSH, file permissions, file searching, text processing, secure file handling, and foundational security concepts using Ubuntu in WSL and Hyper-V lab environments.
-
-**Relevant skills:** Linux, Bash, SSH, file permissions, command-line troubleshooting, text processing, secure file handling, documentation.
-
----
-
-## Certifications
-
-- AWS Certified Cloud Practitioner
-- LPI Linux Essentials
-- NDG Linux Essentials
-
----
-
-## Target Roles
-
-I am currently pursuing roles including:
-
-- IT Support Technician
-- Help Desk Analyst
-- Service Desk Analyst
-- Technical Support Analyst
-- Desktop / End-User Support Technician
-- Junior Systems Support Technician
-- Junior Network Support Technician
-- Junior Systems Administrator
-- Entry-level NOC / infrastructure support roles where troubleshooting and escalation support are central
-
-My focus is IT Support, Service Desk, Microsoft 365 administration, endpoint troubleshooting, and technical documentation. I plan to build on this foundation in cloud infrastructure, network operations, and security operations.
+Detailed steps and supporting evidence are available through the project links above.
